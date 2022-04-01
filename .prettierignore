@@ -36,6 +36,7 @@ apps/website/core-components/input/README.md
 
 # temporary
 demos/
+apps/
 
 # has errors and got past build
 packages/eslint-plugin-clarity-adoption

@@ -5,8 +5,7 @@
   "workspaces": {
     "packages": [
       "packages/*",
-      "apps/website",
-      "demos/react"
+      "apps/website"
     ],
     "nohoist": [
       "@cds/core/tslib",
